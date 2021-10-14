@@ -1,0 +1,1 @@
+get product -> show product (as list)
